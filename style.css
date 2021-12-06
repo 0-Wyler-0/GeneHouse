@@ -289,9 +289,7 @@ body {
     padding: 20px;
 }
 
-.abt-abt li {
-    margin-inline-start: 20%;
-}
+
 
 .abt h2, p, li{
     color: #03f4ff;
@@ -389,8 +387,5 @@ body {
     }
     .abt {
         width: 50%;
-    }
-    .abt-abt li {
-        margin-inline-start: 30%;
     }
 }
